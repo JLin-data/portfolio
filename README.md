@@ -1,5 +1,5 @@
 # Portfolio
-Data Science Portfolio (This is a new site, past projects will be added soon, thank you!)
+Data Science Portfolio (Past projects will be moved to this page soon...)
 
 * [Massive data projects in AWS (Data Engineering)](https://github.com/JJJJJingL/dataEngineering-AWS)
 

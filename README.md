@@ -1,7 +1,7 @@
 # Portfolio
 Data Science Portfolio (This is a new site, past projects will be added soon, thank you!)
 
-* [Massive data projects in AWS (Big data tools and cloud infrastructure operating)](https://github.com/JJJJJingL/dataEngineering-AWS)
+* [Massive data projects in AWS (Data Engineering)](https://github.com/JJJJJingL/dataEngineering-AWS)
 
 * Natural Language Processing 
   * [Quora_Question_Pairs](https://github.com/KoalaChelsea/Quora_Question_Pairs)

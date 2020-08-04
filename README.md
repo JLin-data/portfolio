@@ -9,6 +9,7 @@ Data Science Portfolio (This is a new site, past projects will be added soon, th
   * [Movie rating predict](https://github.com/JJJJJingL/movie_ratings)
 
 * Machine Learning and Deep Learning
+ * [DeepLearning_Understanding-Clouds-from-Satellite-Images](https://github.com/JJJJJingL/DeepLearning_Understanding-Clouds-from-Satellite-Images)
 
 * Data Visualization
 

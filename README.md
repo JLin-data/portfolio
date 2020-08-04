@@ -1,7 +1,7 @@
 # Portfolio
 Data Science Portfolio
 
-* [Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS)
+* [Massive data projects in AWS](https://github.com/JJJJJingL/dataEngineering-AWS)
 
 * Natural Language Processing 
 

@@ -1,5 +1,6 @@
 # Portfolio
-Data Science Portfolio (Past projects will be moved to this repository soon...)
+Jingjing Lin's Data Science Portfolio 
+(This is new repository for my data science work, this page is still under construction... update frequently!)
 
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 

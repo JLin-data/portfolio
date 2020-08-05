@@ -1,5 +1,5 @@
 # Portfolio
-Data Science Portfolio (Past projects will be moved to this page soon...)
+Data Science Portfolio (Past projects will be moved to this repository soon...)
 
 * [Massive data projects in AWS (Data Engineering)](https://github.com/JJJJJingL/dataEngineering-AWS)
 
@@ -12,5 +12,8 @@ Data Science Portfolio (Past projects will be moved to this page soon...)
   * [DeepLearning_Understanding-Clouds-from-Satellite-Images](https://github.com/JJJJJingL/DeepLearning_Understanding-Clouds-from-Satellite-Images)
 
 * Data Visualization
+  * [Tableau: Research on the relationship between the rise in feminism and the trend of birth rate](http://jingjingl.georgetown.domains/503HW3.html)
+  * [Python: Plotly, Matplotlib, Seaborn](http://jingjingl.georgetown.domains/HWpre.html)
+  * R
 
 To be continue... 

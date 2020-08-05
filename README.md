@@ -1,16 +1,16 @@
 # Portfolio
 Welcome to Jingjing's Data Science Portfolio! Please explore a new learner's data science learning path:)  \
 \
-You could also check [my website](http://jingjingl.georgetown.domains/) and shoot me a message at [here](isjingjing.lin@gmail.com)
+You could also check [my website](http://jingjingl.georgetown.domains/) and shoot me a message at [here](mailto:isjingjing.lin@gmail.com)
 \
 (This is new repository for my data science work, this page is still under construction... update frequently!)
 
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 
 * Data Engineering: Massive data projects in AWS
-  - [x] [Hadoop Streaming: MapReduce](https://github.com/gu-anly502/spring2019-a2-JJJJJingL)
-  - [x] [Hive&Pig](https://github.com/gu-anly502/spring2019-a3-JJJJJingL)
   - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
+  - [ ] [Hadoop Streaming: MapReduce(working on permission request)](https://github.com/gu-anly502/spring2019-a2-JJJJJingL)
+  - [ ] [Hive&Pig (working on permission request)](https://github.com/gu-anly502/spring2019-a3-JJJJJingL)
 
 * Natural Language Processing 
   - [x] [Quora_Question_Pairs](https://github.com/KoalaChelsea/Quora_Question_Pairs)

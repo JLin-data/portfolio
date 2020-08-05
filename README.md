@@ -5,7 +5,7 @@ Data Science Portfolio (Past projects will be moved to this repository soon...)
 
 * Data Engineering: Massive data projects in AWS
   - [x] [Hadoop Streaming: MapReduce](https://github.com/gu-anly502/spring2019-a2-JJJJJingL)
-  - [x] [Hadoop Streaming:Hive & Pig](https://github.com/gu-anly502/spring2019-a3-JJJJJingL)
+  - [x] [Hive&Pig](https://github.com/gu-anly502/spring2019-a3-JJJJJingL)
   - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
 
 * Natural Language Processing 

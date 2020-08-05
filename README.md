@@ -4,7 +4,7 @@ Data Science Portfolio (Past projects will be moved to this repository soon...)
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 
 * Data Engineering: Massive data projects in AWS
-  - [x] [Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
+  - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
 
 * Natural Language Processing 
   - [x] [Quora_Question_Pairs](https://github.com/KoalaChelsea/Quora_Question_Pairs)

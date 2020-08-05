@@ -1,7 +1,7 @@
 # Portfolio
 Data Science Portfolio (Past projects will be moved to this repository soon...)
 
-* [Massive data projects in AWS (Data Engineering)](https://github.com/JJJJJingL/dataEngineering-AWS)
+* [Data Engineering: Massive data projects in AWS](https://github.com/JJJJJingL/dataEngineering-AWS)
 
 * Natural Language Processing 
   * [Quora_Question_Pairs](https://github.com/KoalaChelsea/Quora_Question_Pairs)
@@ -12,8 +12,12 @@ Data Science Portfolio (Past projects will be moved to this repository soon...)
   * [DeepLearning_Understanding-Clouds-from-Satellite-Images](https://github.com/JJJJJingL/DeepLearning_Understanding-Clouds-from-Satellite-Images)
 
 * Data Visualization
-  * [Tableau: Research on the relationship between the rise in feminism and the trend of birth rate](http://jingjingl.georgetown.domains/503HW3.html)
+  * [Tableau: Tentative Research on the Causes of the Declining Birthrate](http://jingjingl.georgetown.domains/503HW3.html)
   * [Python: Plotly, Matplotlib, Seaborn](http://jingjingl.georgetown.domains/HWpre.html)
-  * R
+  * R (to be continued...)
+  
+* Data Analytics Project
+  * [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/ANLY503)
+  * Where do you live: a research on living site choice (to be continued...)
 
-To be continue... 
+To be continued... 

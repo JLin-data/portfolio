@@ -1,9 +1,9 @@
 # Portfolio
 Data Science Portfolio (Past projects will be moved to this repository soon...)
 
-<!-- (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
+<!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 
-* [Data Engineering: Massive data projects in AWS]
+* Data Engineering: Massive data projects in AWS
   - [x] [Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
 
 * Natural Language Processing 

@@ -1,9 +1,9 @@
 # Portfolio
-Welcome to Jingjing's Data Science Portfolio! Please explore a new learner's data science learning path:)  \
+Welcome to Jingjing's Data Science Portfolio! Please explore a lifelong learner's data science learning path:)  \
 \
-You could also check [my website](http://jingjingl.georgetown.domains/) and shoot me a message at [here](mailto:isjingjing.lin@gmail.com)
+You also encouraged to check [my website](http://jingjingl.georgetown.domains/) and shoot me a message at [here](mailto:isjingjing.lin@gmail.com)
 \
-(This is new repository for my data science work, this page is still under construction... update frequently!)
+(This is new repository for my data science work; this page is still under construction and updated frequently!)
 
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 

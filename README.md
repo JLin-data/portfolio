@@ -6,7 +6,7 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 
 
 
-    (This is new repository for my data science work; this page is still under construction and updated frequently!)
+    (This is new repository for my data science work, it is still under construction and updated frequently!)
 
 
 

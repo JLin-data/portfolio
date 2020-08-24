@@ -34,7 +34,7 @@ You also encouraged to check [my website](http://jingjingl.georgetown.domains/) 
   - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/ANLY-501-Project)
   
  
-* VBA
+* VBA (Advanced Excel)
   - [x] [Demo demonstration: Credit System in mac system](https://youtu.be/zPP6EvdQZzU)
 
 

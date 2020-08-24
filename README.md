@@ -32,6 +32,10 @@ You also encouraged to check [my website](http://jingjingl.georgetown.domains/) 
 * Data Analytics Project
   - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo)
   - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/ANLY-501-Project)
+  
+ 
+* VBA
+  - [x] [Demo demonstration: Credit System in mac system](https://youtu.be/zPP6EvdQZzU)
 
 
 To be continued... 

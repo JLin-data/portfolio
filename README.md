@@ -1,7 +1,9 @@
 # Portfolio
 Welcome to Jingjing's Data Science Portfolio! Please explore a lifelong learner's data science learning path:)  \
 \
+--------------
 You are also encouraged to check [my website](http://jingjingl.georgetown.domains/), download my [resume](https://github.com/JJJJJingL/portfolio/blob/master/Lin%2C%20Jingjing_Resume.pdf), and shoot me a message at [here](mailto:isjingjing.lin@gmail.com)
+--------------
 \
 (This is new repository for my data science work; this page is still under construction and updated frequently!)
 

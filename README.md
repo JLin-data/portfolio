@@ -40,7 +40,9 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
   
  
 * VBA (Advanced Excel)
-  - [x] [Demo demonstration: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) **new**
+  - [x] [Demo: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) **new**
+  - [x] [Demo: Coupon Campaign - Revenue Evaluation Tool for a Zoo]() **new**
+  
 
 
 To be continued... 

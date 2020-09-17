@@ -36,11 +36,11 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 
 * Data Analytics Project
   - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) **new**
-  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health)
+  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) **new**
   
  
 * VBA (Advanced Excel)
-  - [x] [Demo: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) **new**
+  - [x] [Demo: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) 
   - [x] [Demo: Coupon Campaign - Revenue Evaluation Tool for a Zoo](https://youtu.be/vDbzNU8ojGw) **new**
   
 

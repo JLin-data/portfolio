@@ -35,7 +35,7 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 
 
 * Data Analytics Project
-  - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) **new**
+  - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) 
   - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) **new**
   
  

@@ -13,15 +13,15 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 
 * Data Engineering: Massive data projects in AWS
-  - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
+  - [x] [Mini Project: Predicting the most popular review in Reddit PySpark](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
   - [ ] [Hadoop Streaming: MapReduce (working on permission request)](https://github.com/gu-anly502/spring2019-a2-JJJJJingL)
   - [ ] [Hive&Pig (working on permission request)](https://github.com/gu-anly502/spring2019-a3-JJJJJingL)
 
 
 * Natural Language Processing 
-  - [x] [Quora_Question_Pairs](https://github.com/KoalaChelsea/Quora_Question_Pairs)
-  - [x] [NLP-sentiment-analysis-of-English-Twitter](https://github.com/KoalaChelsea/NLP-sentiment-analysis-of-English-Twitter)
-  - [x] [Movie rating predict](https://github.com/JJJJJingL/movie_ratings)
+  - [x] [Quora_Question_Pairs Python](https://github.com/KoalaChelsea/Quora_Question_Pairs)
+  - [x] [NLP-sentiment-analysis-of-English-Twitter Python](https://github.com/KoalaChelsea/NLP-sentiment-analysis-of-English-Twitter)
+  - [x] [Movie rating predict Python](https://github.com/JJJJJingL/movie_ratings)
 
 
 * Machine Learning and Deep Learning
@@ -36,10 +36,10 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 
 * Data Analytics Project
   - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) (Tableau)  
-  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) **new**
+  - [x] [Where do you live: a research on living site choices Python](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) **new**
   
  
-* VBA (Advanced Excel)
+* VBA - Macros (Advanced Excel)
   - [x] [Demo: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) 
   - [x] [Demo: Coupon Campaign - Revenue Evaluation Tool for a Zoo](https://youtu.be/vDbzNU8ojGw) **new**
   

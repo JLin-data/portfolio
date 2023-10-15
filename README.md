@@ -6,11 +6,15 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
 
 
 
-    (This is new repository for my data science work, it is still under construction and updated frequently!)
+   <!-- (This is new repository for my data science work, it is still under construction and updated frequently!) -->
 
 
 
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
+
+* Data Analytics Project
+  - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) (Tableau)  
+  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) (Python) 
 
 * Data Engineering: Massive data projects in AWS
   - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id) (PySpark)  
@@ -33,15 +37,11 @@ You are also encouraged to check [my website](http://jingjingl.georgetown.domain
   - [x] [Python: Plotly, Matplotlib, Seaborn](http://jingjingl.georgetown.domains/HWpre.html)
   - [ ] R (to be continued...)
 
-
-* Data Analytics Project
-  - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) (Tableau)  
-  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) (Python) **new**
   
  
 * VBA - Macros (Advanced Excel)
   - [x] [Demo: Credit System in mac system](https://youtu.be/zPP6EvdQZzU) 
-  - [x] [Demo: Coupon Campaign - Revenue Evaluation Tool for a Zoo](https://youtu.be/vDbzNU8ojGw) **new**
+  - [x] [Demo: Coupon Campaign - Revenue Evaluation Tool for a Zoo](https://youtu.be/vDbzNU8ojGw) 
   
 
 

@@ -2,7 +2,7 @@
 Welcome to Jingjing's Data Science Portfolio! Please explore a lifelong learner's data science learning path:)  
 
 
-You are also encouraged to check [my website](http://jingjingl.georgetown.domains/), get a copy of my [resume](https://github.com/JLin-data/portfolio/blob/master/Lin%2CJingjing_Resume_Data%20Science.pdf), or shoot me a [message](mailto:isjingjing.lin@gmail.com)  
+You are also encouraged to check [my website](http://jingjingl.georgetown.domains/), get a copy of my [resume](https://github.com/JLin-data/portfolio/blob/master/Lin%2C%20Jingjing_Resume_v3.pdf), or shoot me a [message](mailto:isjingjing.lin@gmail.com)  
 
 
 

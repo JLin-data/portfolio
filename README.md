@@ -12,8 +12,9 @@ I'd also like to invite you to visit [my website](http://jingjingl.georgetown.do
 <!-- [Data Engineering: Massive data projects in AWS] (https://github.com/JJJJJingL/dataEngineering-AWS) --> 
 
 * Data Analytics Project
+   - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) (Python) [[*DEMO*](https://jingjingl.georgetown.domains/501Demo.html)  [*CODE*](https://github.com/JLin-data/Where-should-you-live-for-your-health/tree/master)]
   - [x] [Tentative Research on the Causes of the Declining Birthrate](https://github.com/JJJJJingL/DataVisualizationDemo) (Tableau)  
-  - [x] [Where do you live: a research on living site choices](https://github.com/JJJJJingL/Where-should-you-live-for-your-health) (Python) 
+
 
 * Data Engineering: Massive data projects in AWS
   - [x] [Mini Project: Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id) (PySpark)  
